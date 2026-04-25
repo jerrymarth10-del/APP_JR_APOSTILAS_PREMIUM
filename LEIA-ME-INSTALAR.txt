@@ -1,0 +1,22 @@
+JR APOSTILAS PREMIUM - APP PRONTO
+
+O que foi feito:
+- Projeto 1 como entrada principal.
+- Projeto 2 dentro da pasta /premium/.
+- Botao Especificas apontando para /premium/.
+- PWA com manifest.json e service-worker.js.
+- Icone do app configurado.
+- Botao Instalar App no celular.
+- Pronto para subir gratis na Vercel com HTTPS automatico.
+
+Como subir gratis na Vercel:
+1. Extraia este ZIP no computador.
+2. Entre em https://vercel.com e faca login.
+3. Clique em Add New Project.
+4. Envie/importe a pasta JR-Apostilas-Premium-App-Completo.
+5. Clique em Deploy.
+6. Abra o link gerado no celular pelo Chrome.
+7. Toque em Instalar App.
+
+Observacao:
+Este app e PWA. Ele instala direto pelo navegador, sem pagar Play Store.
